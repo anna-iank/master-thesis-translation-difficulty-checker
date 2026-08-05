@@ -31,8 +31,9 @@ master-thesis-translation-difficulty-checker
 │── dataset/
 │   ├── dataset_fine_tuning
 │   └── LICENSE_DATASET
-│── sample/
-│   └── test_input
+│── samples/
+│   ├── test_input.txt
+|   └── example_output.json
 │── main_script_v2
 │── README.md
 │── LICENSE
