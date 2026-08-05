@@ -1,0 +1,2774 @@
+{
+  "document": {
+    "input_file": "input_sample.txt",
+    "total_sentences": 27
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "text": "Starting a new chapter in life often brings up a mixture of excitement, uncertainty, and personal challenges.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "starting",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "new",
+          "label": "0"
+        },
+        {
+          "token": "chapter",
+          "label": "0"
+        },
+        {
+          "token": "in",
+          "label": "0"
+        },
+        {
+          "token": "life",
+          "label": "0"
+        },
+        {
+          "token": "often",
+          "label": "0"
+        },
+        {
+          "token": "brings",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "mixture",
+          "label": "0"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": "excitement",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "uncertainty",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "personal",
+          "label": "0"
+        },
+        {
+          "token": "challenges",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "new chapter in life",
+          "pos_pattern": "JJ NN IN NN"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "text": "When people set out on a new journey, they usually have to deal with unexpected situations, complicated decisions, and changing circumstances.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "when",
+          "label": "0"
+        },
+        {
+          "token": "people",
+          "label": "0"
+        },
+        {
+          "token": "set",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "on",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "new",
+          "label": "0"
+        },
+        {
+          "token": "journey",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "they",
+          "label": "0"
+        },
+        {
+          "token": "usually",
+          "label": "0"
+        },
+        {
+          "token": "have",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "deal",
+          "label": "PV"
+        },
+        {
+          "token": "with",
+          "label": "PV"
+        },
+        {
+          "token": "unexpected",
+          "label": "0"
+        },
+        {
+          "token": "situations",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "complicated",
+          "label": "0"
+        },
+        {
+          "token": "decisions",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "changing",
+          "label": "0"
+        },
+        {
+          "token": "circumstances",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 2,
+      "text": "A successful person is not someone who never faces problems; rather, it is someone who knows how to work things out, move forward, and keep going even when difficulties come up.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "successful",
+          "label": "0"
+        },
+        {
+          "token": "person",
+          "label": "0"
+        },
+        {
+          "token": "is",
+          "label": "0"
+        },
+        {
+          "token": "not",
+          "label": "0"
+        },
+        {
+          "token": "someone",
+          "label": "0"
+        },
+        {
+          "token": "who",
+          "label": "0"
+        },
+        {
+          "token": "never",
+          "label": "0"
+        },
+        {
+          "token": "faces",
+          "label": "0"
+        },
+        {
+          "token": "problems",
+          "label": "0"
+        },
+        {
+          "token": ";",
+          "label": "0"
+        },
+        {
+          "token": "rather",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "it",
+          "label": "0"
+        },
+        {
+          "token": "is",
+          "label": "0"
+        },
+        {
+          "token": "someone",
+          "label": "0"
+        },
+        {
+          "token": "who",
+          "label": "0"
+        },
+        {
+          "token": "knows",
+          "label": "0"
+        },
+        {
+          "token": "how",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "work",
+          "label": "PV"
+        },
+        {
+          "token": "things",
+          "label": "0"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "move",
+          "label": "0"
+        },
+        {
+          "token": "forward",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "keep",
+          "label": "0"
+        },
+        {
+          "token": "going",
+          "label": "0"
+        },
+        {
+          "token": "even",
+          "label": "0"
+        },
+        {
+          "token": "when",
+          "label": "0"
+        },
+        {
+          "token": "difficulties",
+          "label": "0"
+        },
+        {
+          "token": "come",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 3,
+      "text": "A few years ago, Daniel decided to take up a new career opportunity in a busy international company.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "few",
+          "label": "0"
+        },
+        {
+          "token": "years",
+          "label": "0"
+        },
+        {
+          "token": "ago",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "daniel",
+          "label": "0"
+        },
+        {
+          "token": "decided",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "take",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "new",
+          "label": "0"
+        },
+        {
+          "token": "career",
+          "label": "0"
+        },
+        {
+          "token": "opportunity",
+          "label": "0"
+        },
+        {
+          "token": "in",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "busy",
+          "label": "0"
+        },
+        {
+          "token": "international",
+          "label": "0"
+        },
+        {
+          "token": "company",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "career opportunity in busy international company",
+          "pos_pattern": "NN NN IN JJ JJ NN"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "He had always dreamed of building up his professional skills and finding out what he was truly capable of.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "had",
+          "label": "0"
+        },
+        {
+          "token": "always",
+          "label": "0"
+        },
+        {
+          "token": "dreamed",
+          "label": "0"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": "building",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "professional",
+          "label": "0"
+        },
+        {
+          "token": "skills",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "finding",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "what",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "was",
+          "label": "0"
+        },
+        {
+          "token": "truly",
+          "label": "0"
+        },
+        {
+          "token": "capable",
+          "label": "0"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 5,
+      "text": "However, when he first showed up at his new workplace, he quickly realized that he had to catch up with experienced colleagues, figure out unfamiliar systems, and get used to a completely different working environment.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "however",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "when",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "first",
+          "label": "0"
+        },
+        {
+          "token": "showed",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "at",
+          "label": "0"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "new",
+          "label": "0"
+        },
+        {
+          "token": "workplace",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "quickly",
+          "label": "0"
+        },
+        {
+          "token": "realized",
+          "label": "0"
+        },
+        {
+          "token": "that",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "had",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "catch",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "with",
+          "label": "0"
+        },
+        {
+          "token": "experienced",
+          "label": "0"
+        },
+        {
+          "token": "colleagues",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "figure",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "unfamiliar",
+          "label": "0"
+        },
+        {
+          "token": "systems",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "get",
+          "label": "0"
+        },
+        {
+          "token": "used",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "completely",
+          "label": "0"
+        },
+        {
+          "token": "different",
+          "label": "0"
+        },
+        {
+          "token": "working",
+          "label": "0"
+        },
+        {
+          "token": "environment",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 6,
+      "text": "During the first few months, Daniel was dealing with a heavy workload, long meetings, and a constant flow of new information.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "during",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "first",
+          "label": "0"
+        },
+        {
+          "token": "few",
+          "label": "0"
+        },
+        {
+          "token": "months",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "daniel",
+          "label": "0"
+        },
+        {
+          "token": "was",
+          "label": "0"
+        },
+        {
+          "token": "dealing",
+          "label": "PV"
+        },
+        {
+          "token": "with",
+          "label": "PV"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "heavy",
+          "label": "0"
+        },
+        {
+          "token": "workload",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "long",
+          "label": "0"
+        },
+        {
+          "token": "meetings",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "constant",
+          "label": "0"
+        },
+        {
+          "token": "flow",
+          "label": "0"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": "new",
+          "label": "0"
+        },
+        {
+          "token": "information",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "flow of new information",
+          "pos_pattern": "NN IN JJ NN"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "He sometimes felt overwhelmed, but he refused to give up.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "sometimes",
+          "label": "0"
+        },
+        {
+          "token": "felt",
+          "label": "0"
+        },
+        {
+          "token": "overwhelmed",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "but",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "refused",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "give",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 8,
+      "text": "Instead, he broke down large projects into smaller tasks, wrote down important ideas, and came up with creative solutions.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "instead",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "broke",
+          "label": "PV"
+        },
+        {
+          "token": "down",
+          "label": "PV"
+        },
+        {
+          "token": "large",
+          "label": "0"
+        },
+        {
+          "token": "projects",
+          "label": "0"
+        },
+        {
+          "token": "into",
+          "label": "0"
+        },
+        {
+          "token": "smaller",
+          "label": "0"
+        },
+        {
+          "token": "tasks",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "wrote",
+          "label": "PV"
+        },
+        {
+          "token": "down",
+          "label": "PV"
+        },
+        {
+          "token": "important",
+          "label": "0"
+        },
+        {
+          "token": "ideas",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "came",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "with",
+          "label": "0"
+        },
+        {
+          "token": "creative",
+          "label": "0"
+        },
+        {
+          "token": "solutions",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "projects into smaller tasks",
+          "pos_pattern": "NNS IN JJR NNS"
+        },
+        {
+          "text": "down important ideas",
+          "pos_pattern": "RB JJ NNS"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "His ability to carry on during stressful periods helped him stand out from other employees.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "ability",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "carry",
+          "label": "PV"
+        },
+        {
+          "token": "on",
+          "label": "PV"
+        },
+        {
+          "token": "during",
+          "label": "0"
+        },
+        {
+          "token": "stressful",
+          "label": "0"
+        },
+        {
+          "token": "periods",
+          "label": "0"
+        },
+        {
+          "token": "helped",
+          "label": "0"
+        },
+        {
+          "token": "him",
+          "label": "0"
+        },
+        {
+          "token": "stand",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "from",
+          "label": "0"
+        },
+        {
+          "token": "other",
+          "label": "0"
+        },
+        {
+          "token": "employees",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 10,
+      "text": "As time went by, Daniel built up strong relationships with his teammates.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "as",
+          "label": "0"
+        },
+        {
+          "token": "time",
+          "label": "0"
+        },
+        {
+          "token": "went",
+          "label": "0"
+        },
+        {
+          "token": "by",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "daniel",
+          "label": "0"
+        },
+        {
+          "token": "built",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "strong",
+          "label": "0"
+        },
+        {
+          "token": "relationships",
+          "label": "0"
+        },
+        {
+          "token": "with",
+          "label": "0"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "teammates",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 11,
+      "text": "He took part in various company events, joined in team discussions, and reached out to senior managers for advice.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "took",
+          "label": "0"
+        },
+        {
+          "token": "part",
+          "label": "0"
+        },
+        {
+          "token": "in",
+          "label": "0"
+        },
+        {
+          "token": "various",
+          "label": "0"
+        },
+        {
+          "token": "company",
+          "label": "0"
+        },
+        {
+          "token": "events",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "joined",
+          "label": "0"
+        },
+        {
+          "token": "in",
+          "label": "0"
+        },
+        {
+          "token": "team",
+          "label": "0"
+        },
+        {
+          "token": "discussions",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "reached",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "senior",
+          "label": "0"
+        },
+        {
+          "token": "managers",
+          "label": "0"
+        },
+        {
+          "token": "for",
+          "label": "0"
+        },
+        {
+          "token": "advice",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "part in various company events",
+          "pos_pattern": "NN IN JJ NN NNS"
+        },
+        {
+          "text": "team discussions",
+          "pos_pattern": "NN NNS"
+        },
+        {
+          "text": "senior managers for advice",
+          "pos_pattern": "JJ NNS IN NN"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "These valuable professional connections helped him grow as an employee and opened up new possibilities for future development.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "these",
+          "label": "0"
+        },
+        {
+          "token": "valuable",
+          "label": "0"
+        },
+        {
+          "token": "professional",
+          "label": "0"
+        },
+        {
+          "token": "connections",
+          "label": "0"
+        },
+        {
+          "token": "helped",
+          "label": "0"
+        },
+        {
+          "token": "him",
+          "label": "0"
+        },
+        {
+          "token": "grow",
+          "label": "0"
+        },
+        {
+          "token": "as",
+          "label": "0"
+        },
+        {
+          "token": "an",
+          "label": "0"
+        },
+        {
+          "token": "employee",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "opened",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "new",
+          "label": "0"
+        },
+        {
+          "token": "possibilities",
+          "label": "0"
+        },
+        {
+          "token": "for",
+          "label": "0"
+        },
+        {
+          "token": "future",
+          "label": "0"
+        },
+        {
+          "token": "development",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "valuable professional connections",
+          "pos_pattern": "JJ NN NNS"
+        },
+        {
+          "text": "possibilities for future development",
+          "pos_pattern": "NNS IN JJ NN"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "His colleagues often pointed out his positive attitude and willingness to help others.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "colleagues",
+          "label": "0"
+        },
+        {
+          "token": "often",
+          "label": "0"
+        },
+        {
+          "token": "pointed",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "positive",
+          "label": "0"
+        },
+        {
+          "token": "attitude",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "willingness",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "help",
+          "label": "0"
+        },
+        {
+          "token": "others",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 14,
+      "text": "One of the biggest challenges Daniel faced was a major international project that had been put off for several months.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "one",
+          "label": "0"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "biggest",
+          "label": "0"
+        },
+        {
+          "token": "challenges",
+          "label": "0"
+        },
+        {
+          "token": "daniel",
+          "label": "0"
+        },
+        {
+          "token": "faced",
+          "label": "0"
+        },
+        {
+          "token": "was",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "major",
+          "label": "0"
+        },
+        {
+          "token": "international",
+          "label": "0"
+        },
+        {
+          "token": "project",
+          "label": "0"
+        },
+        {
+          "token": "that",
+          "label": "0"
+        },
+        {
+          "token": "had",
+          "label": "0"
+        },
+        {
+          "token": "been",
+          "label": "0"
+        },
+        {
+          "token": "put",
+          "label": "PV"
+        },
+        {
+          "token": "off",
+          "label": "PV"
+        },
+        {
+          "token": "for",
+          "label": "0"
+        },
+        {
+          "token": "several",
+          "label": "0"
+        },
+        {
+          "token": "months",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "biggest challenges Daniel",
+          "pos_pattern": "JJS NNS NNP"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "The team had to bring together different ideas, sort out communication problems, and deal with several unexpected delays.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "team",
+          "label": "0"
+        },
+        {
+          "token": "had",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "bring",
+          "label": "PV"
+        },
+        {
+          "token": "together",
+          "label": "PV"
+        },
+        {
+          "token": "different",
+          "label": "0"
+        },
+        {
+          "token": "ideas",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "sort",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "communication",
+          "label": "0"
+        },
+        {
+          "token": "problems",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "deal",
+          "label": "PV"
+        },
+        {
+          "token": "with",
+          "label": "PV"
+        },
+        {
+          "token": "several",
+          "label": "0"
+        },
+        {
+          "token": "unexpected",
+          "label": "0"
+        },
+        {
+          "token": "delays",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "together different ideas",
+          "pos_pattern": "RB JJ NNS"
+        },
+        {
+          "text": "communication problems",
+          "pos_pattern": "NN NNS"
+        },
+        {
+          "text": "deal with several unexpected delays",
+          "pos_pattern": "NN IN JJ JJ NNS"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Instead of blaming each other, the members sat down together and worked through the difficulties.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "instead",
+          "label": "0"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": "blaming",
+          "label": "0"
+        },
+        {
+          "token": "each",
+          "label": "0"
+        },
+        {
+          "token": "other",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "members",
+          "label": "0"
+        },
+        {
+          "token": "sat",
+          "label": "PV"
+        },
+        {
+          "token": "down",
+          "label": "PV"
+        },
+        {
+          "token": "together",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "worked",
+          "label": "PV"
+        },
+        {
+          "token": "through",
+          "label": "PV"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "difficulties",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 17,
+      "text": "They eventually came up with a detailed action plan and carried out the project successfully.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "they",
+          "label": "0"
+        },
+        {
+          "token": "eventually",
+          "label": "0"
+        },
+        {
+          "token": "came",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "with",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "detailed",
+          "label": "0"
+        },
+        {
+          "token": "action",
+          "label": "0"
+        },
+        {
+          "token": "plan",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "carried",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "project",
+          "label": "0"
+        },
+        {
+          "token": "successfully",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "detailed action plan",
+          "pos_pattern": "JJ NN NN"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Looking back on his experience, Daniel realized that personal growth does not happen overnight.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "looking",
+          "label": "PV"
+        },
+        {
+          "token": "back",
+          "label": "PV"
+        },
+        {
+          "token": "on",
+          "label": "0"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "experience",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "daniel",
+          "label": "0"
+        },
+        {
+          "token": "realized",
+          "label": "0"
+        },
+        {
+          "token": "that",
+          "label": "0"
+        },
+        {
+          "token": "personal",
+          "label": "0"
+        },
+        {
+          "token": "growth",
+          "label": "0"
+        },
+        {
+          "token": "does",
+          "label": "0"
+        },
+        {
+          "token": "not",
+          "label": "0"
+        },
+        {
+          "token": "happen",
+          "label": "0"
+        },
+        {
+          "token": "overnight",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 19,
+      "text": "It requires patience, determination, and the ability to adapt to new situations.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "it",
+          "label": "0"
+        },
+        {
+          "token": "requires",
+          "label": "0"
+        },
+        {
+          "token": "patience",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "determination",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "ability",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "adapt",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "new",
+          "label": "0"
+        },
+        {
+          "token": "situations",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 20,
+      "text": "The lessons he had picked up along the way became a valuable collection of experiences that shaped his future decisions.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "lessons",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "had",
+          "label": "0"
+        },
+        {
+          "token": "picked",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "along",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "way",
+          "label": "0"
+        },
+        {
+          "token": "became",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "valuable",
+          "label": "0"
+        },
+        {
+          "token": "collection",
+          "label": "0"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": "experiences",
+          "label": "0"
+        },
+        {
+          "token": "that",
+          "label": "0"
+        },
+        {
+          "token": "shaped",
+          "label": "0"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "future",
+          "label": "0"
+        },
+        {
+          "token": "decisions",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "valuable collection of experiences",
+          "pos_pattern": "JJ NN IN NNS"
+        },
+        {
+          "text": "future decisions",
+          "pos_pattern": "NN NNS"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Today, Daniel continues to look for new challenges and opportunities.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "today",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "daniel",
+          "label": "0"
+        },
+        {
+          "token": "continues",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "look",
+          "label": "PV"
+        },
+        {
+          "token": "for",
+          "label": "PV"
+        },
+        {
+          "token": "new",
+          "label": "0"
+        },
+        {
+          "token": "challenges",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "opportunities",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 22,
+      "text": "He keeps up with industry trends, takes on demanding responsibilities, and passes on his knowledge to younger colleagues.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "he",
+          "label": "0"
+        },
+        {
+          "token": "keeps",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "with",
+          "label": "PV"
+        },
+        {
+          "token": "industry",
+          "label": "0"
+        },
+        {
+          "token": "trends",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "takes",
+          "label": "PV"
+        },
+        {
+          "token": "on",
+          "label": "PV"
+        },
+        {
+          "token": "demanding",
+          "label": "0"
+        },
+        {
+          "token": "responsibilities",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "passes",
+          "label": "PV"
+        },
+        {
+          "token": "on",
+          "label": "PV"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "knowledge",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "younger",
+          "label": "0"
+        },
+        {
+          "token": "colleagues",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "industry trends",
+          "pos_pattern": "NN NNS"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "His journey proves that people can transform their lives when they are willing to step out of their comfort zones, face difficulties, and make the most of every opportunity that comes their way.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "his",
+          "label": "0"
+        },
+        {
+          "token": "journey",
+          "label": "0"
+        },
+        {
+          "token": "proves",
+          "label": "0"
+        },
+        {
+          "token": "that",
+          "label": "0"
+        },
+        {
+          "token": "people",
+          "label": "0"
+        },
+        {
+          "token": "can",
+          "label": "0"
+        },
+        {
+          "token": "transform",
+          "label": "0"
+        },
+        {
+          "token": "their",
+          "label": "0"
+        },
+        {
+          "token": "lives",
+          "label": "0"
+        },
+        {
+          "token": "when",
+          "label": "0"
+        },
+        {
+          "token": "they",
+          "label": "0"
+        },
+        {
+          "token": "are",
+          "label": "0"
+        },
+        {
+          "token": "willing",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "step",
+          "label": "PV"
+        },
+        {
+          "token": "out",
+          "label": "PV"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": "their",
+          "label": "0"
+        },
+        {
+          "token": "comfort",
+          "label": "0"
+        },
+        {
+          "token": "zones",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "face",
+          "label": "0"
+        },
+        {
+          "token": "difficulties",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "make",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "most",
+          "label": "0"
+        },
+        {
+          "token": "of",
+          "label": "0"
+        },
+        {
+          "token": "every",
+          "label": "0"
+        },
+        {
+          "token": "opportunity",
+          "label": "0"
+        },
+        {
+          "token": "that",
+          "label": "0"
+        },
+        {
+          "token": "comes",
+          "label": "0"
+        },
+        {
+          "token": "their",
+          "label": "0"
+        },
+        {
+          "token": "way",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": [
+        {
+          "text": "comfort zones",
+          "pos_pattern": "NN NNS"
+        },
+        {
+          "text": "face difficulties",
+          "pos_pattern": "NN NNS"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "In the end, success is not simply about reaching a final goal.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "in",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "end",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "success",
+          "label": "0"
+        },
+        {
+          "token": "is",
+          "label": "0"
+        },
+        {
+          "token": "not",
+          "label": "0"
+        },
+        {
+          "token": "simply",
+          "label": "0"
+        },
+        {
+          "token": "about",
+          "label": "0"
+        },
+        {
+          "token": "reaching",
+          "label": "0"
+        },
+        {
+          "token": "a",
+          "label": "0"
+        },
+        {
+          "token": "final",
+          "label": "0"
+        },
+        {
+          "token": "goal",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 25,
+      "text": "It is about the everyday efforts, the small improvements, and the meaningful relationships that people build up over time.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "it",
+          "label": "0"
+        },
+        {
+          "token": "is",
+          "label": "0"
+        },
+        {
+          "token": "about",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "everyday",
+          "label": "0"
+        },
+        {
+          "token": "efforts",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "small",
+          "label": "0"
+        },
+        {
+          "token": "improvements",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "meaningful",
+          "label": "0"
+        },
+        {
+          "token": "relationships",
+          "label": "0"
+        },
+        {
+          "token": "that",
+          "label": "0"
+        },
+        {
+          "token": "people",
+          "label": "0"
+        },
+        {
+          "token": "build",
+          "label": "PV"
+        },
+        {
+          "token": "up",
+          "label": "PV"
+        },
+        {
+          "token": "over",
+          "label": "0"
+        },
+        {
+          "token": "time",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    },
+    {
+      "id": 26,
+      "text": "Those who learn to overcome obstacles, take responsibility, and keep pushing ahead are often the ones who achieve long-lasting personal and professional success.",
+      "tokens": [
+        {
+          "token": "[CLS]",
+          "label": "0"
+        },
+        {
+          "token": "those",
+          "label": "0"
+        },
+        {
+          "token": "who",
+          "label": "0"
+        },
+        {
+          "token": "learn",
+          "label": "0"
+        },
+        {
+          "token": "to",
+          "label": "0"
+        },
+        {
+          "token": "overcome",
+          "label": "0"
+        },
+        {
+          "token": "obstacles",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "take",
+          "label": "0"
+        },
+        {
+          "token": "responsibility",
+          "label": "0"
+        },
+        {
+          "token": ",",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "keep",
+          "label": "0"
+        },
+        {
+          "token": "pushing",
+          "label": "PV"
+        },
+        {
+          "token": "ahead",
+          "label": "PV"
+        },
+        {
+          "token": "are",
+          "label": "0"
+        },
+        {
+          "token": "often",
+          "label": "0"
+        },
+        {
+          "token": "the",
+          "label": "0"
+        },
+        {
+          "token": "ones",
+          "label": "0"
+        },
+        {
+          "token": "who",
+          "label": "0"
+        },
+        {
+          "token": "achieve",
+          "label": "0"
+        },
+        {
+          "token": "long",
+          "label": "0"
+        },
+        {
+          "token": "-",
+          "label": "0"
+        },
+        {
+          "token": "lasting",
+          "label": "0"
+        },
+        {
+          "token": "personal",
+          "label": "0"
+        },
+        {
+          "token": "and",
+          "label": "0"
+        },
+        {
+          "token": "professional",
+          "label": "0"
+        },
+        {
+          "token": "success",
+          "label": "0"
+        },
+        {
+          "token": ".",
+          "label": "0"
+        },
+        {
+          "token": "[SEP]",
+          "label": "0"
+        }
+      ],
+      "noun_phrases": []
+    }
+  ],
+  "statistics": {
+    "approximate_phrasal_verb_count": 39,
+    "noun_phrase_count": 20,
+    "partial_complexity_score": 0.2
+  }
+}
