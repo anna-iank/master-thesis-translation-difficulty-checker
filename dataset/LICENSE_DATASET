@@ -1,0 +1,35 @@
+===============================================================================
+DATASET LICENSE & ATTRIBUTION NOTICE
+===============================================================================
+
+Dataset Path: dataset/dataset_fine_tuning.csv
+
+The dataset located in `dataset/dataset_fine_tuning.csv` is a subset 
+derived from the News Commentary parallel corpus, annotated for the presence 
+of phrasal verbs. 
+
+-------------------------------------------------------------------------------
+LICENSING
+-------------------------------------------------------------------------------
+
+According to the official specifications provided at:
+http://data.statmt.org/news-commentary/README
+
+The underlying News Commentary corpus is licensed under the Creative 
+Commons CC0 License (Public Domain Dedication).
+
+-------------------------------------------------------------------------------
+ANNOTATION & CITATION
+-------------------------------------------------------------------------------
+
+The phrasal verb annotations were completed in 2021. The source corpus 
+reference was updated to reflect the formal WMT specification as per the 
+official documentation:
+
+Kocmi, T., Bawden, R., Bojar, O., Dvorkovich, A., Federmann, C., Fishel, M., 
+Gowda, T., Graham, Y., Grundkiewicz, R., Haddow, B., Knowles, R., Koehn, P., 
+Monz, C., Morishita, M., Nagata, M., Nakazawa, T., Novák, M., Popel, M., and 
+Popović, M. (2022). Findings of the 2022 Conference on Machine Translation (WMT22). 
+In Proceedings of the Seventh Conference on Machine Translation (WMT), pages 1–45, 
+Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
+Available at: https://aclanthology.org/2022.wmt-1.1/ (Accessed 4 August 2026)
