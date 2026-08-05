@@ -114,6 +114,11 @@ The table below compares their F1 scores with the fine-tuned BERT model used in 
 | Bidirectional LSTM                                     |     0.21 |
 | BertForTokenClassification (fine-tuned, main pipeline) | **0.67** |
 
+**Component 2 (no baselines)** 
+
+| Component | F1 score |
+|------|---------:|
+| NLTK-based parser of noun phrases | 0.72 |
 
 **Overall tool evaluation**
 
@@ -127,4 +132,7 @@ The table below compares their F1 scores with the fine-tuned BERT model used in 
 ## Requirements
 
 * The Google Colab notebook installs all required dependencies automatically.
-* To run the scripts in `baselines/`, install the dependencies listed in `requirements.txt`.
+* To run the scripts in `baselines/`, install the dependencies listed in `requirements.txt`:
+  
+```bash
+pip install -r requirements.txt
