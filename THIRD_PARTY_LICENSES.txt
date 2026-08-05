@@ -1,0 +1,42 @@
+## License
+
+This project is released under the MIT License. See the LICENSE file for details.
+
+## Third-party components and licenses
+
+This project uses the following external resources:
+
+### Pre-trained BERT model
+
+Pre-trained model: Google's `bert-base-uncased`
+License: Apache License 2.0
+Source: https://huggingface.co/google-bert/bert-base-uncased
+
+### Model fine-tuning approach
+
+The fine-tuning implementation was adapted from:
+Sterbak (2018), "Named Entity Recognition with BERT"
+License: MIT License
+Source: https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
+
+### Fine-tuning dataset
+
+Dataset: News Commentary Parallel Dataset
+License: Creative Commons CC0 License ("No Rights Reserved")
+Source: https://data.statmt.org/news-commentary/README
+
+
+### Natural Language Toolkit (NLTK)
+
+Library: Natural Language Toolkit (NLTK)
+License: Apache License 2.0
+Source: https://github.com/nltk/nltk
+
+### PyTorch 
+License: BSD 3-Clause
+Source:
+https://github.com/pytorch/pytorch
+
+### Hugging Face Transformers
+License: Apache License 2.0
+Source: https://github.com/huggingface/transformers
